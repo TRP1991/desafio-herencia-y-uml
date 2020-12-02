@@ -1,6 +1,6 @@
 =begin
     
-Estudiante: Tamara Rubilar 
+Estudiante: Tamara Rubilar Pnilla
 
 Desafío - Herencia y UML
     
