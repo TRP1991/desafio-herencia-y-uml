@@ -19,6 +19,7 @@ class MonthlyAppointment < Appointment #Creción clase de herencia
 
     def to_s #llamado implícito
         "Reunión mensual en #{location} sobre #{purpose} el día #{day} a las #{hour}: #{min}"
+    end
     
 end
 
